@@ -74,4 +74,5 @@ ul li{
 .special{
     order: -1;
     background-color: #E23333;
+    flex-grow: 0.5;
 }
